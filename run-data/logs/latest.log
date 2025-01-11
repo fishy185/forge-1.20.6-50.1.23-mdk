@@ -1,0 +1,27 @@
+[06Jan2025 13:45:45.137] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\fishy\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, weaponmod, --all, --output, C:\Users\fishy\Downloads\trueforge-1.21-51.0.33-mdk\src\generated\resources, --existing, C:\Users\fishy\Downloads\trueforge-1.21-51.0.33-mdk\src\main\resources]
+[06Jan2025 13:45:45.137] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Amazon.com Inc. OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[06Jan2025 13:45:45.137] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Amazon.com Inc.; OS Windows 11 arch amd64 version 10.0
+[06Jan2025 13:45:45.231] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[06Jan2025 13:45:45.299] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/fishy/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[06Jan2025 13:45:45.942] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Jan2025 13:45:46.559] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\fishy\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, weaponmod, --all, --output, C:\Users\fishy\Downloads\trueforge-1.21-51.0.33-mdk\src\generated\resources, --existing, C:\Users\fishy\Downloads\trueforge-1.21-51.0.33-mdk\src\main\resources]
+[06Jan2025 13:45:50.312] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[06Jan2025 13:45:50.312] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[06Jan2025 13:45:50.333] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[06Jan2025 13:45:50.692] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [weaponmod]
+[06Jan2025 13:45:50.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/fishy/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.10-1.21/forge-1.21-51.0.33_mapped_parchment_2024.11.10-1.21-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[06Jan2025 13:45:50.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/fishy/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.10-1.21/forge-1.21-51.0.33_mapped_parchment_2024.11.10-1.21-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[06Jan2025 13:45:50.875] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[06Jan2025 13:45:50.996] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 132 ms
+[06Jan2025 13:45:50.996] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[06Jan2025 13:45:51.027] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 23 ms
+[06Jan2025 13:45:51.027] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id weaponmod
+[06Jan2025 13:45:51.041] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id weaponmod finished after 8 ms
+[06Jan2025 13:45:51.041] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id weaponmod
+[06Jan2025 13:45:51.041] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id weaponmod finished after 0 ms
+[06Jan2025 13:45:51.041] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: weaponmod
+[06Jan2025 13:45:51.041] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: weaponmod finished after 3 ms
+[06Jan2025 13:45:51.041] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: weaponmod
+[06Jan2025 13:45:51.102] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: weaponmod finished after 61 ms
+[06Jan2025 13:45:51.102] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 232 ms
+[06Jan2025 13:45:51.111] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 28, old count: 24, new count: 29, removed stale: 0, written: 4

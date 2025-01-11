@@ -1,0 +1,5 @@
+// 1.21	2025-01-04T17:03:40.3985263	Loot Tables
+c69f82bc0360e14fd1b2c15ec7b25aeaa518d7ca data/weaponmod/loot_table/blocks/block_of_silly.json
+6a4a7ccae88a3e05dbf1a50954736b7c7844d798 data/weaponmod/loot_table/blocks/random_ore.json
+a028bdffd2c6d4a49682e10c659a15a577449028 data/weaponmod/loot_table/blocks/silly_block.json
+e90ed2eae7ba0e28ef12d250bf7907e555f9eb9e data/weaponmod/loot_table/blocks/silly_ore.json

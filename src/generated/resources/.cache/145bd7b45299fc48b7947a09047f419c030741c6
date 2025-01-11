@@ -1,0 +1,13 @@
+// 1.21	2025-01-05T12:57:20.3260131	Block States: weaponmod
+83351c7a3b3292b7ea4fc250c34fe2edcba48936 assets/weaponmod/blockstates/block_of_silly.json
+9321e48abc24deddad40ba626caf504180922df8 assets/weaponmod/blockstates/random_ore.json
+654c3dd09a6edb79ab1e206911b14de69df46dd5 assets/weaponmod/blockstates/silly_block.json
+ef5bbc0793a56fa91d2b6867fbaf09fba28860f6 assets/weaponmod/blockstates/silly_ore.json
+c3278f61bb67bd9034a02f34b60159aeb0006cf0 assets/weaponmod/models/block/block_of_silly.json
+1e2ca7aa03c8a4c50364f73d1c3778fe6781a30e assets/weaponmod/models/block/random_ore.json
+8ac639e5336a748eeb9cdae0bd125541a02512ff assets/weaponmod/models/block/silly_block.json
+df66b903003f63e877c46ca9a65e472daaad83f9 assets/weaponmod/models/block/silly_ore.json
+80b42abce5103b33e9473855dc5c7e18bbedff9d assets/weaponmod/models/item/block_of_silly.json
+3bd1edc0663c382066e7494164e77f45d3e56a02 assets/weaponmod/models/item/random_ore.json
+3921371ab80a77af168c1cdedd0e95a5b03bdd76 assets/weaponmod/models/item/silly_block.json
+7581ad56b7ba1d3c8a01ded7cad72aa3130f74df assets/weaponmod/models/item/silly_ore.json

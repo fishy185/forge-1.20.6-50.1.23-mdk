@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "#weaponmod:needs_silly_tool"
+  ],
+  "values": [
+    "#minecraft:incorrect_for_diamond_tool"
+  ]
+}

@@ -1,0 +1,4 @@
+// 1.21	2025-01-06T13:45:51.1026279	Tags for minecraft:block mod id weaponmod
+92cfeb15b52a5c1083c83067a542da1b4a059838 data/minecraft/tags/block/mineable/pickaxe.json
+bbb719f2b790aeed9697c613fd9cd11f6dbbdb12 data/weaponmod/tags/block/incorrect_for_silly_tool.json
+31fc4eb3a2b6c8fc540a923b1b0238bf045fcbee data/weaponmod/tags/block/needs_silly_tool.json

@@ -1,0 +1,15 @@
+{
+  "item.weaponmod.alexandrite": "Alexandrite",
+  "item.weaponmod.nuclear_waste_1": "Nuclear Waste",
+  "item.weaponmod.sheet_metal": "Sheet Metal",
+  "item.weaponmod.raw_silliness": "Raw Silliness",
+  "item.weaponmod.raw_randomness": "Raw Randomness",
+
+  "block.weaponmod.silly_block": "Silly Block",
+  "block.weaponmod.block_of_silly": "Block of Silly",
+  "block.weaponmod.silly_ore": "Silly Ore",
+  "block.weaponmod.random_ore": "Random Ore",
+
+  "item.weaponmod.special_stick": "Special Stick :3",
+  "item.weaponmod.silly_pickaxe": "Silly Pickaxe"
+}
