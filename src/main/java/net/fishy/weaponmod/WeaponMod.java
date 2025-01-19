@@ -3,6 +3,7 @@ package net.fishy.weaponmod;
 import com.mojang.logging.LogUtils;
 import net.fishy.weaponmod.block.ModBlocks;
 import net.fishy.weaponmod.item.Moditems;
+import net.fishy.weaponmod.sound.ModSounds;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -38,6 +39,8 @@ public class WeaponMod
 
         Moditems.register(modEventBus); //registers the mod items
         ModBlocks.register(modEventBus); //register the mod blocks
+
+        ModSounds.register(modEventBus);
 
 
         // Register the item to a creative tab

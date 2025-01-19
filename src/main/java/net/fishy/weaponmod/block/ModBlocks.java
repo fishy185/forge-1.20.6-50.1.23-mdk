@@ -3,6 +3,7 @@ package net.fishy.weaponmod.block;
 import com.mojang.blaze3d.shaders.Uniform;
 import net.fishy.weaponmod.WeaponMod;
 import net.fishy.weaponmod.item.Moditems;
+import net.fishy.weaponmod.sound.ModSounds;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -27,7 +28,7 @@ public class ModBlocks {
 
 
     public static final RegistryObject<Block> BLOCK_OF_SILLY = registerBlock("block_of_silly", () -> new Block(BlockBehaviour.Properties.of()
-            .strength(1.5f).requiresCorrectToolForDrops().sound(SoundType.ANVIL)));
+            .strength(1.5f).requiresCorrectToolForDrops().sound(ModSounds.SILLY_BLOCK_SOUNDS)));
 
 
     public static final RegistryObject<Block> RANDOM_ORE = registerBlock("random_ore", () -> new DropExperienceBlock(UniformInt.of(5, 15),BlockBehaviour.Properties.of()

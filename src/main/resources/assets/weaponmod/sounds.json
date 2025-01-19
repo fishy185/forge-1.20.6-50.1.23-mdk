@@ -1,0 +1,32 @@
+{
+  "silly_block_break": {
+    "subtitle": "sounds.weaponmod.silly_block_break",
+    "sounds": [
+      "weaponmod:silly_block_break"
+    ]
+  },
+  "silly_block_step": {
+    "subtitle": "sounds.weaponmod.silly_block_step",
+    "sounds": [
+      "weaponmod:silly_block_step"
+    ]
+  },
+  "silly_block_place": {
+    "subtitle": "sounds.weaponmod.silly_block_place",
+    "sounds": [
+      "weaponmod:silly_block_place"
+    ]
+  },
+  "silly_block_hit": {
+    "subtitle": "sounds.weaponmod.silly_block_hit",
+    "sounds": [
+      "weaponmod:silly_block_hit"
+    ]
+  },
+  "silly_block_fall": {
+    "subtitle": "sounds.weaponmod.silly_block_fall",
+    "sounds": [
+      "weaponmod:silly_block_fall"
+    ]
+  }
+}
