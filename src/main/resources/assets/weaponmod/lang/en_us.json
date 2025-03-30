@@ -11,5 +11,10 @@
   "block.weaponmod.random_ore": "Random Ore",
 
   "item.weaponmod.special_stick": "Special Stick :3",
-  "item.weaponmod.silly_pickaxe": "Silly Pickaxe"
+  "item.weaponmod.silly_pickaxe": "Silly Pickaxe",
+
+  "item.weaponmod.unknown_helmet": "Unknown Helmet",
+  "item.weaponmod.unknown_chestplate": "Unknown Chestplate",
+  "item.weaponmod.unknown_leggings": "Unknown Leggings",
+  "item.weaponmod.unknown_boots": "Unknown Boots"
 }

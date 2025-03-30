@@ -2,6 +2,7 @@ package net.fishy.weaponmod;
 
 import com.mojang.logging.LogUtils;
 import net.fishy.weaponmod.block.ModBlocks;
+import net.fishy.weaponmod.item.ModArmorMaterials;
 import net.fishy.weaponmod.item.Moditems;
 import net.fishy.weaponmod.sound.ModSounds;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -73,6 +74,17 @@ public class WeaponMod
             event.accept(ModBlocks.BLOCK_OF_SILLY);
             event.accept(ModBlocks.SILLY_ORE);
             event.accept(ModBlocks.RANDOM_ORE);
+        }
+
+        /*
+        this might not work, but kaupenjoe mysteriously has a new class for the creative mode tabs that i don't remember making,
+        so fck it we ball
+        */
+        if(event.getTabKey() == CreativeModeTabs.COMBAT) {
+            event.accept(Moditems.UNKNOWN_BOOTS.get());
+            event.accept(Moditems.UNKNOWN_CHESTPLATE.get());
+            event.accept(Moditems.UNKNOWN_LEGGINGS.get());
+            event.accept(Moditems.UNKNOWN_HELMET.get());
         }
     }
 
